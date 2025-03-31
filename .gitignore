@@ -100,3 +100,6 @@ ehthumbs.db
 
 # Exclude project management files
 scripts/
+
+# Exclude database files
+*.db
